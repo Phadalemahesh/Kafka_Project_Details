@@ -1,0 +1,15 @@
+**PySpark**
+PySpark remains the industry-standard Python API for Apache Spark, an open-source distributed computing framework designed for large-scale data processing. 
+It allows developers to use Python's simple syntax to perform computations across a cluster of machines, making it possible to handle datasets that are too large for a single computer to process. 
+
+Please follow URL and setup PySpark on system.
+https://www.youtube.com/watch?v=DznteGdeJoA
+
+
+**Confluent**
+Confluent is a data streaming platform based on Apache Kafka. 
+It was founded by the original creators of Kafka to help organizations process data in real-time as it moves between systems.
+
+Please follow URL and setup Confluent Account. Please delete cluster when you are not using it.
+https://www.youtube.com/watch?v=miN4WLiJnRE
+
